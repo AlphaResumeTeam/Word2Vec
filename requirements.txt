@@ -1,8 +1,7 @@
-Flask
+flask
 jieba
 numpy
 pandas
 scikit-learn
 gunicorn
-nginx
 openpyxl
